@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-FP4OP26
+Date of Test: 2024-11-12 12:40:18
+Bubble Sort Time: 5.495459 seconds
+Quick Sort Time: 0.011344 seconds
+
