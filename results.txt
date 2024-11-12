@@ -1,0 +1,5 @@
+Computer Name: Laptoplos
+Date of Test: 2024-11-12 12:40:10
+Bubble Sort Time: 8.291332 seconds
+Quick Sort Time: 0.018005 seconds
+
